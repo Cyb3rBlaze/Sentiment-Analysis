@@ -1,0 +1,5 @@
+**/env
+**/data
+**/training_1
+**/checkpoints
+**/saved_model
